@@ -1,3 +1,3 @@
 # DataStructureAlgos
-Some data structure and algo projects written in python
+Some data structure and algo programs written in python
 
